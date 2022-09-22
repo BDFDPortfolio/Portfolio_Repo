@@ -1,2 +1,2 @@
 # Portfolio_Repo
-link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/BDFDPortfolio/Side_Project_Repo/SP053_WES/static/Nav/css/normalize.min.css"
+link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/BDFDPortfolio/Portfolio_Repo/CommonLibrary/jQuery/jquery-3.6.1.min.js"
